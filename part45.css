@@ -1,0 +1,61 @@
+/* div.first{
+  background-color: #dddd;
+  width: 300px;
+  height:300px;
+}
+div.second{
+  background-color: pink;
+  width: 300px;
+  height:300px;
+} */
+/* span.first{
+  background-color: #dddd
+  margin-top:40px;
+  margin-botton:40px;
+  margin-left:40px;
+}
+span.second{
+  background-color: pink
+} */
+/* span.first{
+  background-color: #dddd;
+  display: block;
+}
+span.second{
+  background-color: pink;
+  display: block;
+} */
+/* span.first{
+  background-color: #dddd;
+  display: block;
+  height: 300px;
+  width:300px;
+}
+span.second{
+  background-color: pink;
+  display: block;
+  height: 300px;
+  width:300px;
+} */
+/* p{
+  display: inline;
+} */
+/* p{
+  display: none;
+} */
+div.first{
+  background-color: #dddd;
+  width: 300px;
+  height:300px;
+}
+div.second{
+  background-color: pink;
+  width: 300px;
+  height:300px;
+  visibility: hidden;
+}
+div.third{
+  background-color: pink;
+  width: 300px;
+  height:300px;
+}

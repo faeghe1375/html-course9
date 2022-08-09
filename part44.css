@@ -1,0 +1,31 @@
+/* table{
+    width: 100%;
+    border-collapse: collapse; */
+}
+th,td{
+  padding: 10px;
+  text-align: left;
+
+}
+tr:nth-child(odd){
+  background-color: gray;
+}
+/* div{
+overflow-x:auto;
+} */
+.t1{
+  width: 200px;
+  table-layout: auto;
+}
+.t2{
+  width: 200px;
+  table-layout: fixed;
+}
+.t3{
+  width: 100%;
+  table-layout: fixed;
+}
+.t4{
+  width: 100%;
+  table-layout: auto;
+}
